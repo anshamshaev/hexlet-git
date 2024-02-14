@@ -1,3 +1,2 @@
 No code No pain\
-experiment with amend\
-last lesson for Git course\
+last lesson for Git course
