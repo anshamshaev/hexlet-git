@@ -1,4 +1,4 @@
 No code No pain\
 last lesson for Git course
 
-![screenshot_1](/screenshots/Screenshot from 2024-06-23 13-57-01.png?raw=true "Optional Title")
+![screenshot_1](screenshots/screenshot_1.png?raw=true)
